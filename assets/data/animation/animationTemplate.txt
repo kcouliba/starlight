@@ -1,0 +1,7 @@
+**Animation Template**
+SPRITESHEETFILE;NAME;AREA(x,y,w,h);NBFRAMES;SPEED;CANCELABLE;BYFRAMEPOSITION(0 or 1);FRAMESIZE(w,h) || FRAMESPOSITIONSLIST(x,y,w,h)
+**e.g**
+anim_spritesheet.ext;anim;0,0,300,240;7;.25;0;
+0;32,32;
+or
+1;0,0,32,24:0,0,42,28;...

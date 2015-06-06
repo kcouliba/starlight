@@ -1,0 +1,4 @@
+**Scene Name**
+;NBTEXTURES;TEXTUREFILELIST(,);NBANIMATIONS;ANIMATIONCONFIGFILELIST(,)
+**e.g**
+;2;template_spritesheet.ext,template0_spritesheet.ext;3;template.anim,template1.anim,template2.anim
